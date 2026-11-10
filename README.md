@@ -42,10 +42,12 @@ This repository may include:
 5. Continue learning tools used by entry-level data analysts.
    
 🚀 Progress
+
 I am currently at the learning and practice stage. I will keep updating
 this repository as I complete new exercises, assignments, and projects.
 
 💡 A Note
+
 Every expert starts as a beginner. This repository is a record of my
 consistency, practice, and growth in data analytics.
 
