@@ -1,4 +1,4 @@
- #My Excel Learning Journey 📊
+#My Excel Learning Journey 📊
 Welcome to my Excel Learning Journey repository! This space
 documents my progress as I build practical Microsoft Excel skills and
 develop a foundation for a career in Data Analytics.
