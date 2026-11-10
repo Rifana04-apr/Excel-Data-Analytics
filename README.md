@@ -3,11 +3,14 @@
 Welcome to my Excel Learning Journey repository! This space
 documents my progress as I build practical Microsoft Excel skills and
 develop a foundation for a career in Data Analytics.
+
 🌱 About My Journey
+
 I am a BSc Physics graduate currently learning AI Integration and Data
 Analytics through Entri. I started this repository to practise Excel,
 keep my assignments organised, and track the skills I develop along the
 way.
+
 🎯 What I'm Learning
 
 - Working with rows, columns, cells, and worksheets
